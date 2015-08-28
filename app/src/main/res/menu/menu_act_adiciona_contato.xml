@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.finhane.agendacontato.ActAdicionaContato">
+
+    <item
+        android:id="@+id/menuSalvar"
+        android:title="@string/lblMenuSalvar"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+    />
+    <item
+        android:id="@+id/menuExcluir"
+        android:title="@string/lblMenuExcluir"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:visible="false"
+        />
+</menu>

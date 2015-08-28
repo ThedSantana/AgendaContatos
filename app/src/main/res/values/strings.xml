@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AgendaContato</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_act_adiciona_contato">Adicionar Contato</string>
+    <string name="lblNome">Nome</string>
+    <string name="lblTelefone">Telefone</string>
+    <string name="lblGrupo">Grupo</string>
+    <string name="lblEmail">Email</string>
+    <string name="lblEndereco">Endereço</string>
+    <string name="lblDataEspecial">Data Especial</string>
+
+    <string name="lblMenuSalvar">Salvar</string>
+    <string name="lblMenuAlterar">Alterar</string>
+    <string name="lblMenuExcluir">Excluir</string>
+    <string name="lblAdicionarContato">Adicionar Contato</string>
+</resources>
